@@ -9,4 +9,4 @@ elif b <= a and b <= c:
 else:
     smallest = c
  
-print("Smallest number:", smallest)
+print("Smallest number:", smallest)  
